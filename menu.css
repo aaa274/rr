@@ -1,0 +1,65 @@
+body{
+    margin:0px;
+    text-align:center;
+}
+
+#menu{
+    width:2400;
+    margin:0px;
+    padding:0px;
+    list-style-type:none;
+    text-align:center;
+}
+
+#menu li{
+    float:left;
+    text-align:center;
+}
+
+#menu li.menu02 a{
+    width:800px;
+    height:100px;
+    color:#000000;
+    font-size:180%;
+    background:url(image/kabegami_siro.jpg);
+    text-decoration:none;
+    display:block;
+}
+
+#menu li.menu02 a:hover{
+    color:#007be0;
+    background:url(image/kabegami_mizuiro.jpg);
+}
+
+
+
+
+#menu li.menu03 a{
+    width:800px;
+    height:100px;
+    color:#000000;
+    font-size:180%;
+    background:url(image/kabegami_siro.jpg);
+    text-decoration:none;
+    display:block;
+}
+
+#menu li.menu03 a:hover{
+    color:#ff0037;
+    background:url(image/kabegami_aka.jpg);
+}
+
+#menu li.menu04 a{
+    width:800px;
+    height:100px;
+    color:#000000;
+    font-size:180%;
+    background:url(image/kabegami_siro.jpg);
+    text-decoration:none;
+    display:block;
+}
+
+#menu li.menu04 a:hover{
+    color:#14a800;
+    background:url(image/kabegami_midori.jpg);
+}
